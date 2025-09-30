@@ -2,7 +2,9 @@
 Includes: Snowflask view-only access links, ppt
 
 #Initial ML utilization: https://app.snowflake.com/baadqcf/vw37862/w326plpoBV8W#query
+
 #decision tree:  https://app.snowflake.com/baadqcf/vw37862/w4PsDVoy5ln6/query
+
 #logistic regression: https://app.snowflake.com/baadqcf/vw37862/w40cjHuckK0z/query
 
 #SQL queries:
